@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "Geysir custom",
   "version": "1.6.2.1",
   "description": "Custom by scurfin. Free Bootstrap4 theme for Koken, with Pjax, Nprogress (for smoother/faster content and essay browsing) & Koken search compatible. And now also supports languages",
-=======
-  "name": "Geysir",
-  "version": "1.6.2",
-  "description": "Free Bootstrap4 theme for Koken, with Pjax, Nprogress (for smoother/faster content and essay browsing) & Koken search compatible. And now also supports languages",
->>>>>>> parent of eb59170... updated version
   "demo": "http://grimur.net",
   "author": {
     "name": "scurfin",
