@@ -582,7 +582,11 @@
           "value": "true",
           "relead_preview": true
         },
+<<<<<<< HEAD
 		"front_featured_albums": {
+=======
+	"featured_front_albums": {
+>>>>>>> b60a6f2fc144535ace124906a792a27e7ca73ea4
           "label": "Show featured albums on frontpage",
           "type": "boolean",
           "control_first": true,
